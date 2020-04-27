@@ -1,0 +1,21 @@
+# Show toc on post page
+widgets:
+    -
+        position: right
+        type: toc
+# Make toc sticky when scrolling the page
+sidebar:
+    right:
+        sticky: true
+# No comment function for now
+comment:
+# Donate plugin configurations
+donates:
+    -
+        type: alipay
+        qrcode: ''
+    -
+        type: wechat
+        url: ''
+# No share function
+share:
